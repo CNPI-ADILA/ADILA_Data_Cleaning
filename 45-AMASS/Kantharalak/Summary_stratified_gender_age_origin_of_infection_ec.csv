@@ -1,0 +1,44 @@
+"Organism","AST3gcCarb","Origin_of_infection","Gender","Age_group","count"
+"organism_escherichia_coli","3GCNS−carb−NS",0,"female","65 to 80 years",1
+"organism_escherichia_coli","3GCNS−carb−NS",1,"male","45 to 54 years",1
+"organism_escherichia_coli","3GCNS−carb−S",0,"male","25 to 34 years",1
+"organism_escherichia_coli","3GCNS−carb−S",0,"male","45 to 54 years",2
+"organism_escherichia_coli","3GCNS−carb−S",0,"male","55 to 64 years",1
+"organism_escherichia_coli","3GCNS−carb−S",0,"male","65 to 80 years",6
+"organism_escherichia_coli","3GCNS−carb−S",0,"male","over 80 years",5
+"organism_escherichia_coli","3GCNS−carb−S",0,"female","15 to 24 years",2
+"organism_escherichia_coli","3GCNS−carb−S",0,"female","35 to 44 years",1
+"organism_escherichia_coli","3GCNS−carb−S",0,"female","45 to 54 years",4
+"organism_escherichia_coli","3GCNS−carb−S",0,"female","55 to 64 years",5
+"organism_escherichia_coli","3GCNS−carb−S",0,"female","65 to 80 years",5
+"organism_escherichia_coli","3GCNS−carb−S",0,"female","Unknown",1
+"organism_escherichia_coli","3GCNS−carb−S",1,"male","35 to 44 years",1
+"organism_escherichia_coli","3GCNS−carb−S",1,"male","55 to 64 years",2
+"organism_escherichia_coli","3GCNS−carb−S",1,"male","65 to 80 years",1
+"organism_escherichia_coli","3GCNS−carb−S",1,"female","45 to 54 years",2
+"organism_escherichia_coli","3GCNS−carb−S",1,"female","55 to 64 years",4
+"organism_escherichia_coli","3GCNS−carb−S",1,"female","65 to 80 years",2
+"organism_escherichia_coli","3GCNS−carb−S",1,"female","over 80 years",1
+"organism_escherichia_coli","3GCS−carb−S",0,"male","15 to 24 years",2
+"organism_escherichia_coli","3GCS−carb−S",0,"male","25 to 34 years",1
+"organism_escherichia_coli","3GCS−carb−S",0,"male","35 to 44 years",2
+"organism_escherichia_coli","3GCS−carb−S",0,"male","45 to 54 years",1
+"organism_escherichia_coli","3GCS−carb−S",0,"male","55 to 64 years",5
+"organism_escherichia_coli","3GCS−carb−S",0,"male","65 to 80 years",9
+"organism_escherichia_coli","3GCS−carb−S",0,"male","Less than 1",2
+"organism_escherichia_coli","3GCS−carb−S",0,"male","over 80 years",1
+"organism_escherichia_coli","3GCS−carb−S",0,"female","25 to 34 years",2
+"organism_escherichia_coli","3GCS−carb−S",0,"female","35 to 44 years",7
+"organism_escherichia_coli","3GCS−carb−S",0,"female","45 to 54 years",6
+"organism_escherichia_coli","3GCS−carb−S",0,"female","55 to 64 years",7
+"organism_escherichia_coli","3GCS−carb−S",0,"female","65 to 80 years",16
+"organism_escherichia_coli","3GCS−carb−S",0,"female","over 80 years",7
+"organism_escherichia_coli","3GCS−carb−S",1,"male","45 to 54 years",1
+"organism_escherichia_coli","3GCS−carb−S",1,"male","55 to 64 years",1
+"organism_escherichia_coli","3GCS−carb−S",1,"male","65 to 80 years",2
+"organism_escherichia_coli","3GCS−carb−S",1,"male","over 80 years",1
+"organism_escherichia_coli","3GCS−carb−S",1,"female","15 to 24 years",1
+"organism_escherichia_coli","3GCS−carb−S",1,"female","35 to 44 years",1
+"organism_escherichia_coli","3GCS−carb−S",1,"female","55 to 64 years",4
+"organism_escherichia_coli","3GCS−carb−S",1,"female","65 to 80 years",7
+"organism_escherichia_coli","3GCS−carb−S",1,"female","over 80 years",2

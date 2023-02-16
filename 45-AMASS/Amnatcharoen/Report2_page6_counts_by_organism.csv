@@ -1,0 +1,29 @@
+"Organism","Number_of_blood_specimens_culture_positive_for_the_organism"
+"Acinetobacter baumannii",22
+"Acinetobacter haemolyticus",1
+"Acinetobacter species",39
+"E.coli (ESBL-producing strain)",108
+"Enterococcus faecalis",10
+"Enterococcus faecium",30
+"Enterococcus species",9
+"Escherichia coli",355
+"Kleb.pneumoniae (ESBL-producing strain)",7
+"Klebsiella pneumoniae",124
+"No Growth after 1 day",138
+"No Growth after 2 days",14498
+"No Growth after 3 days",772
+"No Growth after 4 days",165
+"No Growth after 5 days",101
+"No Growth after 6 days",74
+"No Growth after 7 days",131
+"Pseudomonas aeruginosa",18
+"Salmonella serogroup B (O:4)",1
+"Salmonella serogroup C",3
+"Salmonella serogroup D",9
+"Salmonella serogroup G",1
+"Salmonella serogroup I",2
+"Salmonella species",2
+"Staphylococcus aureus",132
+"Staphylococcus aureus (iMLSB resistant strain)",4
+"Staphylococcus aureus_",15
+"Streptococcus pneumoniae",14

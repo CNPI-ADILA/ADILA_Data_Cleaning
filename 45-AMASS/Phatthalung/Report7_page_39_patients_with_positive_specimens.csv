@@ -1,0 +1,16 @@
+"Organism","Total_number_of_patients","Number_of_patients_with_blood_positive_deduplicated","Number_of_patients_with_csf_positive_deduplicated","Number_of_patients_with_genitLal_swab_positive_deduplicated","Number_of_patients_with_rts_positive_deduplicated","Number_of_patients_with_stool_positive_deduplicated","Number_of_patients_with_urine_positive_deduplicated","Number_of_patients_with_others_positive_deduplicated"
+"B. pseudomallei","14","12","0","0","0","0","2","3"
+"Brucella spp","0","0","0","0","0","0","0","0"
+"C. diphtheriae","0","0","0","0","0","0","0","0"
+"N. gonorrhoeae","0","0","0","0","0","0","0","0"
+"N. meningitidis","0","0","0","0","0","0","0","0"
+"Salmonella enterica
+serotype paratyphi","0","0","0","0","0","0","0","0"
+"Salmonella enterica
+serotype typhi","0","0","0","0","0","0","0","0"
+"Non-typhoidal
+Salmonella spp","74","10","0","0","0","64","0","1"
+"Shigella spp","1","0","0","0","0","0","0","1"
+"S. suis","3","3","0","0","0","0","0","0"
+"Vibrio spp","5","1","0","0","0","4","0","0"
+"Total","97","26","0","0","0","68","2","5"

@@ -1,0 +1,9 @@
+"Organism","Number_of_patients","frequency_per_tested","frequency_per_tested_lci","frequency_per_tested_uci"
+"S. aureus",6,338.409475465313,155.18557,736.36605
+"Enterococcus spp.",2,112.803158488438,30.94015,410.37434
+"S. pneumoniae",0,0,0,216.19592
+"Salmonella spp.",2,112.803158488438,30.94015,410.37434
+"E. coli",9,507.614213197969,267.28757,961.9419
+"K. pneumoniae",3,169.204737732656,57.5612,496.31258
+"P. aeruginosa",3,169.204737732656,57.5612,496.31258
+"Acinetobacter spp.",3,169.204737732656,57.5612,496.31258

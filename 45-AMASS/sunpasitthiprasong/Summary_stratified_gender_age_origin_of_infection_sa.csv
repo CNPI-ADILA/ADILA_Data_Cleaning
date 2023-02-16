@@ -1,0 +1,40 @@
+"Organism","AMR_str","Origin_of_infection","Gender","Age_group","count"
+"organism_staphylococcus_aureus","MRSA",0,"male","25 to 34 years",2
+"organism_staphylococcus_aureus","MRSA",0,"male","35 to 44 years",2
+"organism_staphylococcus_aureus","MRSA",0,"male","Less than 1",1
+"organism_staphylococcus_aureus","MRSA",0,"male","Unknown",9
+"organism_staphylococcus_aureus","MRSA",0,"female","45 to 54 years",1
+"organism_staphylococcus_aureus","MRSA",0,"female","Unknown",4
+"organism_staphylococcus_aureus","MRSA",1,"male","15 to 24 years",1
+"organism_staphylococcus_aureus","MRSA",1,"male","25 to 34 years",1
+"organism_staphylococcus_aureus","MRSA",1,"male","Unknown",5
+"organism_staphylococcus_aureus","MRSA",1,"female","25 to 34 years",1
+"organism_staphylococcus_aureus","MRSA",1,"female","Unknown",9
+"organism_staphylococcus_aureus","MSSA",0,"male","1 to 4 years",1
+"organism_staphylococcus_aureus","MSSA",0,"male","15 to 24 years",2
+"organism_staphylococcus_aureus","MSSA",0,"male","25 to 34 years",4
+"organism_staphylococcus_aureus","MSSA",0,"male","35 to 44 years",7
+"organism_staphylococcus_aureus","MSSA",0,"male","45 to 54 years",2
+"organism_staphylococcus_aureus","MSSA",0,"male","5 to 14 years",7
+"organism_staphylococcus_aureus","MSSA",0,"male","Less than 1",1
+"organism_staphylococcus_aureus","MSSA",0,"male","Unknown",49
+"organism_staphylococcus_aureus","MSSA",0,"female","15 to 24 years",2
+"organism_staphylococcus_aureus","MSSA",0,"female","45 to 54 years",1
+"organism_staphylococcus_aureus","MSSA",0,"female","5 to 14 years",1
+"organism_staphylococcus_aureus","MSSA",0,"female","Unknown",48
+"organism_staphylococcus_aureus","MSSA",0,NA,"35 to 44 years",1
+"organism_staphylococcus_aureus","MSSA",0,NA,"Unknown",3
+"organism_staphylococcus_aureus","MSSA",1,"male","1 to 4 years",1
+"organism_staphylococcus_aureus","MSSA",1,"male","15 to 24 years",1
+"organism_staphylococcus_aureus","MSSA",1,"male","25 to 34 years",1
+"organism_staphylococcus_aureus","MSSA",1,"male","35 to 44 years",2
+"organism_staphylococcus_aureus","MSSA",1,"male","45 to 54 years",2
+"organism_staphylococcus_aureus","MSSA",1,"male","5 to 14 years",1
+"organism_staphylococcus_aureus","MSSA",1,"male","Less than 1",1
+"organism_staphylococcus_aureus","MSSA",1,"male","Unknown",13
+"organism_staphylococcus_aureus","MSSA",1,"female","1 to 4 years",1
+"organism_staphylococcus_aureus","MSSA",1,"female","15 to 24 years",2
+"organism_staphylococcus_aureus","MSSA",1,"female","35 to 44 years",1
+"organism_staphylococcus_aureus","MSSA",1,"female","5 to 14 years",2
+"organism_staphylococcus_aureus","MSSA",1,"female","Less than 1",3
+"organism_staphylococcus_aureus","MSSA",1,"female","Unknown",9

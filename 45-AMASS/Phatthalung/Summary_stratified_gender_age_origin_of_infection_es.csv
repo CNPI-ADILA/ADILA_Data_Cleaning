@@ -1,0 +1,9 @@
+"Organism","AMR_str","Origin_of_infection","Gender","Age_group","count"
+"organism_enterococcus_spp",NA,0,"male","55 to 64 years",2
+"organism_enterococcus_spp",NA,0,"female","25 to 34 years",2
+"organism_enterococcus_spp",NA,0,"female","65 to 80 years",1
+"organism_enterococcus_spp",NA,1,"male","Less than 1",1
+"organism_enterococcus_spp",NA,1,"male","over 80 years",1
+"organism_enterococcus_spp",NA,1,"female","15 to 24 years",1
+"organism_enterococcus_spp",NA,1,"female","55 to 64 years",1
+"organism_enterococcus_spp",NA,1,"female","65 to 80 years",2

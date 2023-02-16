@@ -1,0 +1,5 @@
+"Organism","AMR_str","Origin_of_infection","Gender","Age_group","count"
+"organism_enterococcus_spp","Vancomycin-S",0,"male","Unknown",1
+"organism_enterococcus_spp","Vancomycin-S",0,"female","Unknown",2
+"organism_enterococcus_spp","Vancomycin-S",1,"male","Unknown",1
+"organism_enterococcus_spp","Vancomycin-S",1,"female","Unknown",2

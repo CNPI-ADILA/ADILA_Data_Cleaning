@@ -1,0 +1,6 @@
+"Organism","AMR_str","Origin_of_infection","Gender","Age_group","count"
+"organism_salmonella_spp","Fluoroquinolone-NS",0,"male","45 to 54 years",1
+"organism_salmonella_spp","Fluoroquinolone-S",0,"male","65 to 80 years",1
+"organism_salmonella_spp","Fluoroquinolone-S",0,"female","15 to 24 years",1
+"organism_salmonella_spp","Fluoroquinolone-S",0,"female","55 to 64 years",1
+"organism_salmonella_spp",NA,0,"female","65 to 80 years",1

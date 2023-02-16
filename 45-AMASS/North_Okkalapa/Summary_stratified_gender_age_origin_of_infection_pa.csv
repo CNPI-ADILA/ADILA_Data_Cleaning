@@ -1,0 +1,4 @@
+"Organism","AMR_str","Origin_of_infection","Gender","Age_group","count"
+"organism_pseudomonas_aeruginosa","Carbapenem-NS",1,"female","Unknown",3
+"organism_pseudomonas_aeruginosa","Carbapenem-S",0,"male","Unknown",3
+"organism_pseudomonas_aeruginosa","Carbapenem-S",1,"female","Unknown",4

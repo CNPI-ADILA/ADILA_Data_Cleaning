@@ -1,0 +1,9 @@
+"Organism","Number_of_patients_with_blood_culture_positive","Number_of_patients_with_blood_culture_positive_merged_with_hospital_data_file","Community_origin","Hospital_origin","Unknown_origin"
+"Staphylococcus aureus",212,205,148,57,7
+"Enterococcus spp.",123,115,61,54,8
+"Streptococcus pneumoniae",43,42,38,4,1
+"Salmonella spp.",62,61,52,9,1
+"Escherichia coli",524,510,400,110,14
+"Klebsiella pneumoniae",281,266,140,126,15
+"Pseudomonas aeruginosa",117,109,35,74,8
+"Acinetobacter spp.",246,235,62,173,11

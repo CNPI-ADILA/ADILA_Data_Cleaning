@@ -1,0 +1,8 @@
+"Organism","AMR_str","Origin_of_infection","Gender","Age_group","count"
+"organism_staphylococcus_aureus","MRSA",0,"male","Unknown",1
+"organism_staphylococcus_aureus","MRSA",0,"female","Unknown",2
+"organism_staphylococcus_aureus","MRSA",1,"male","Unknown",1
+"organism_staphylococcus_aureus","MRSA",1,"female","Unknown",3
+"organism_staphylococcus_aureus","MSSA",0,"male","Unknown",1
+"organism_staphylococcus_aureus","MSSA",1,"male","Unknown",1
+"organism_staphylococcus_aureus","MSSA",1,"female","Unknown",2

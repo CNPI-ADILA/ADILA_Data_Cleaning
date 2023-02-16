@@ -1,0 +1,23 @@
+"Organism","AMR_str","Origin_of_infection","Gender","Age_group","count"
+"organism_pseudomonas_aeruginosa","Carbapenem-NS",0,"male","Unknown",3
+"organism_pseudomonas_aeruginosa","Carbapenem-NS",1,"male","15 to 24 years",1
+"organism_pseudomonas_aeruginosa","Carbapenem-NS",1,"male","35 to 44 years",1
+"organism_pseudomonas_aeruginosa","Carbapenem-NS",1,"male","Unknown",8
+"organism_pseudomonas_aeruginosa","Carbapenem-NS",1,"female","Unknown",8
+"organism_pseudomonas_aeruginosa","Carbapenem-S",0,"male","15 to 24 years",1
+"organism_pseudomonas_aeruginosa","Carbapenem-S",0,"male","25 to 34 years",4
+"organism_pseudomonas_aeruginosa","Carbapenem-S",0,"male","35 to 44 years",1
+"organism_pseudomonas_aeruginosa","Carbapenem-S",0,"male","5 to 14 years",1
+"organism_pseudomonas_aeruginosa","Carbapenem-S",0,"male","Unknown",15
+"organism_pseudomonas_aeruginosa","Carbapenem-S",0,"female","15 to 24 years",1
+"organism_pseudomonas_aeruginosa","Carbapenem-S",0,"female","35 to 44 years",2
+"organism_pseudomonas_aeruginosa","Carbapenem-S",0,"female","Unknown",7
+"organism_pseudomonas_aeruginosa","Carbapenem-S",1,"male","15 to 24 years",1
+"organism_pseudomonas_aeruginosa","Carbapenem-S",1,"male","25 to 34 years",2
+"organism_pseudomonas_aeruginosa","Carbapenem-S",1,"male","35 to 44 years",1
+"organism_pseudomonas_aeruginosa","Carbapenem-S",1,"male","45 to 54 years",1
+"organism_pseudomonas_aeruginosa","Carbapenem-S",1,"male","Unknown",26
+"organism_pseudomonas_aeruginosa","Carbapenem-S",1,"female","1 to 4 years",1
+"organism_pseudomonas_aeruginosa","Carbapenem-S",1,"female","35 to 44 years",3
+"organism_pseudomonas_aeruginosa","Carbapenem-S",1,"female","Less than 1",2
+"organism_pseudomonas_aeruginosa","Carbapenem-S",1,"female","Unknown",19

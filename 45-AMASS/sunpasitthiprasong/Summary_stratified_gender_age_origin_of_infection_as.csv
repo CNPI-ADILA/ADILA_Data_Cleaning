@@ -1,0 +1,47 @@
+"Organism","AMR_str","Origin_of_infection","Gender","Age_group","count"
+"organism_acinetobacter_spp","Carbapenem-NS",0,"male","15 to 24 years",1
+"organism_acinetobacter_spp","Carbapenem-NS",0,"male","45 to 54 years",1
+"organism_acinetobacter_spp","Carbapenem-NS",0,"male","5 to 14 years",1
+"organism_acinetobacter_spp","Carbapenem-NS",0,"male","Less than 1",1
+"organism_acinetobacter_spp","Carbapenem-NS",0,"male","Unknown",8
+"organism_acinetobacter_spp","Carbapenem-NS",0,"female","25 to 34 years",1
+"organism_acinetobacter_spp","Carbapenem-NS",0,"female","Less than 1",1
+"organism_acinetobacter_spp","Carbapenem-NS",0,"female","Unknown",4
+"organism_acinetobacter_spp","Carbapenem-NS",1,"male","1 to 4 years",2
+"organism_acinetobacter_spp","Carbapenem-NS",1,"male","15 to 24 years",3
+"organism_acinetobacter_spp","Carbapenem-NS",1,"male","25 to 34 years",6
+"organism_acinetobacter_spp","Carbapenem-NS",1,"male","35 to 44 years",5
+"organism_acinetobacter_spp","Carbapenem-NS",1,"male","45 to 54 years",2
+"organism_acinetobacter_spp","Carbapenem-NS",1,"male","5 to 14 years",2
+"organism_acinetobacter_spp","Carbapenem-NS",1,"male","Less than 1",3
+"organism_acinetobacter_spp","Carbapenem-NS",1,"male","Unknown",60
+"organism_acinetobacter_spp","Carbapenem-NS",1,"female","1 to 4 years",1
+"organism_acinetobacter_spp","Carbapenem-NS",1,"female","15 to 24 years",2
+"organism_acinetobacter_spp","Carbapenem-NS",1,"female","25 to 34 years",3
+"organism_acinetobacter_spp","Carbapenem-NS",1,"female","35 to 44 years",5
+"organism_acinetobacter_spp","Carbapenem-NS",1,"female","45 to 54 years",1
+"organism_acinetobacter_spp","Carbapenem-NS",1,"female","Less than 1",3
+"organism_acinetobacter_spp","Carbapenem-NS",1,"female","Unknown",36
+"organism_acinetobacter_spp","Carbapenem-NS",1,NA,"Unknown",1
+"organism_acinetobacter_spp","Carbapenem-S",0,"male","15 to 24 years",1
+"organism_acinetobacter_spp","Carbapenem-S",0,"male","25 to 34 years",3
+"organism_acinetobacter_spp","Carbapenem-S",0,"male","35 to 44 years",2
+"organism_acinetobacter_spp","Carbapenem-S",0,"male","5 to 14 years",1
+"organism_acinetobacter_spp","Carbapenem-S",0,"male","Unknown",20
+"organism_acinetobacter_spp","Carbapenem-S",0,"female","1 to 4 years",1
+"organism_acinetobacter_spp","Carbapenem-S",0,"female","25 to 34 years",1
+"organism_acinetobacter_spp","Carbapenem-S",0,"female","35 to 44 years",2
+"organism_acinetobacter_spp","Carbapenem-S",0,"female","Unknown",13
+"organism_acinetobacter_spp","Carbapenem-S",1,"male","1 to 4 years",1
+"organism_acinetobacter_spp","Carbapenem-S",1,"male","15 to 24 years",1
+"organism_acinetobacter_spp","Carbapenem-S",1,"male","25 to 34 years",2
+"organism_acinetobacter_spp","Carbapenem-S",1,"male","35 to 44 years",3
+"organism_acinetobacter_spp","Carbapenem-S",1,"male","5 to 14 years",2
+"organism_acinetobacter_spp","Carbapenem-S",1,"male","Less than 1",1
+"organism_acinetobacter_spp","Carbapenem-S",1,"male","Unknown",10
+"organism_acinetobacter_spp","Carbapenem-S",1,"female","1 to 4 years",1
+"organism_acinetobacter_spp","Carbapenem-S",1,"female","15 to 24 years",1
+"organism_acinetobacter_spp","Carbapenem-S",1,"female","25 to 34 years",1
+"organism_acinetobacter_spp","Carbapenem-S",1,"female","35 to 44 years",1
+"organism_acinetobacter_spp","Carbapenem-S",1,"female","Less than 1",3
+"organism_acinetobacter_spp","Carbapenem-S",1,"female","Unknown",11

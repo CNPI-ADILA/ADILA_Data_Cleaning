@@ -1,0 +1,41 @@
+"Organism","Antibiotic","Infection_origin","Mortality","Mortality_lower_95ci","Mortality_upper_95ci"
+"Staphylococcus aureus","MRSA","Community-origin","0% (0/2)",0,66
+"Staphylococcus aureus","MSSA","Community-origin","0% (0/3)",0,56
+"Enterococcus spp.","Vancomycin-NS","Community-origin","0% (0/2)",0,66
+"Enterococcus spp.","Vancomycin-S","Community-origin","23% (6/26)",11,42
+"Streptococcus pneumoniae","Penicillin-NS","Community-origin","0% (0/1)",0,79
+"Streptococcus pneumoniae","Penicillin-S","Community-origin","22% (5/23)",10,42
+"Salmonella spp.","Fluoroquinolone-NS","Community-origin","0% (0/2)",0,66
+"Salmonella spp.","Fluoroquinolone-S","Community-origin","0% (0/2)",0,66
+"Escherichia coli","Carbapenem-NS","Community-origin","NA",0,0
+"Escherichia coli","3GC-NS","Community-origin","30% (10/33)",17,47
+"Escherichia coli","Carbapenem-S
+and 3GC-S","Community-origin","20% (29/148)",14,27
+"Klebsiella pneumoniae","Carbapenem-NS","Community-origin","NA",0,0
+"Klebsiella pneumoniae","3GC-NS","Community-origin","33% (2/6)",10,70
+"Klebsiella pneumoniae","Carbapenem-S
+and 3GC-S","Community-origin","21% (4/19)",9,43
+"Pseudomonas aeruginosa","Carbapenem-NS","Community-origin","NA",0,0
+"Pseudomonas aeruginosa","Carbapenem-S","Community-origin","47% (8/17)",26,69
+"Acinetobacter spp.","Carbapenem-NS","Community-origin","NA",0,0
+"Acinetobacter spp.","Carbapenem-S","Community-origin","20% (1/5)",4,62
+"Staphylococcus aureus","MRSA","Hospital-origin","0% (0/1)",0,79
+"Staphylococcus aureus","MSSA","Hospital-origin","0% (0/1)",0,79
+"Enterococcus spp.","Vancomycin-NS","Hospital-origin","50% (6/12)",25,75
+"Enterococcus spp.","Vancomycin-S","Hospital-origin","61% (22/36)",45,75
+"Streptococcus pneumoniae","Penicillin-NS","Hospital-origin","NA",0,0
+"Streptococcus pneumoniae","Penicillin-S","Hospital-origin","100% (2/2)",34,100
+"Salmonella spp.","Fluoroquinolone-NS","Hospital-origin","NA",0,0
+"Salmonella spp.","Fluoroquinolone-S","Hospital-origin","0% (0/2)",0,66
+"Escherichia coli","Carbapenem-NS","Hospital-origin","NA",0,0
+"Escherichia coli","3GC-NS","Hospital-origin","56% (9/16)",33,77
+"Escherichia coli","Carbapenem-S
+and 3GC-S","Hospital-origin","46% (26/56)",34,59
+"Klebsiella pneumoniae","Carbapenem-NS","Hospital-origin","NA",0,0
+"Klebsiella pneumoniae","3GC-NS","Hospital-origin","50% (5/10)",24,76
+"Klebsiella pneumoniae","Carbapenem-S
+and 3GC-S","Hospital-origin","42% (8/19)",23,64
+"Pseudomonas aeruginosa","Carbapenem-NS","Hospital-origin","60% (3/5)",23,88
+"Pseudomonas aeruginosa","Carbapenem-S","Hospital-origin","55% (17/31)",38,71
+"Acinetobacter spp.","Carbapenem-NS","Hospital-origin","100% (1/1)",21,100
+"Acinetobacter spp.","Carbapenem-S","Hospital-origin","0% (0/2)",0,66

@@ -1,0 +1,11 @@
+"Organism","Priority_pathogen","Number_of_patients","frequency_per_tested","frequency_per_tested_lci","frequency_per_tested_uci"
+"S. aureus","MRSA ",4,44.4296345662557,17.27913,114.19269
+"Enterococcus spp.","Vancomycin-NSEnterococcus spp.",0,0,0,42.65045
+"S. pneumoniae","Penicillin-NSS. pneumoniae",0,0,0,42.65045
+"Salmonella spp.","Fluoroquinolone-NSSalmonella spp.",15,166.611129623459,100.99792,274.73267
+"E. coli","3GC-NS E. coli",38,422.081528379429,307.67931,578.77417
+"E. coli","Carbapenem-NSE. coli",29,322.114850605354,224.37828,462.22711
+"K. pneumoniae","3GC-NS K. pneumoniae",65,721.981561701655,566.89591,919.10181
+"K. pneumoniae","Carbapenem-NSK. pneumoniae",66,733.088970343219,576.67861,931.52446
+"P. aeruginosa","Carbapenem-NSP. aeruginosa",17,188.825946906587,117.93138,302.20989
+"Acinetobacter spp.","Carbapenem-NSAcinetobacter spp.",68,755.303787626347,596.27392,956.33983

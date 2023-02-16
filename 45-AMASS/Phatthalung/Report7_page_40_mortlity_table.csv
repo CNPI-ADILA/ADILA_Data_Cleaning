@@ -1,0 +1,15 @@
+"Organism","Mortality","Mortality_lower_95ci","Mortality_upper_95ci"
+"B. pseudomallei","18% (2/11)",5,48
+"Brucella spp","NA",0,0
+"C. diphtheriae","NA",0,0
+"N. gonorrhoeae","NA",0,0
+"N. meningitidis","NA",0,0
+"Non-typhoidal
+Salmonella spp","11% (4/37)",4,25
+"S. suis","100% (1/1)",21,100
+"Salmonella enterica
+serotype paratyphi","NA",0,0
+"Salmonella enterica
+serotype typhi","NA",0,0
+"Shigella spp","100% (1/1)",21,100
+"Vibrio spp","100% (1/1)",21,100
