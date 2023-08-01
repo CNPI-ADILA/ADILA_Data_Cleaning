@@ -11,7 +11,7 @@ lapply(packages, require, character.only = TRUE)
 
 # import each file
   # names of hospitals (i.e., folder names)
-  main_dir <- "H:/SharePoint_documentation/Datasets/AMASS"
+  main_dir <- "C:/Users/wcuningh/Documents/ADILA_Data_Cleaning/AMASS"
   dir_list <- list.dirs(main_dir, full.names = FALSE, recursive = FALSE)
   dir_list <- dir_list[dir_list != "combined"]
   # load each csv within each folder
